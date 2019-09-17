@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="TPS" ID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Foley" ID="{9C3A154E-5C86-4368-A524-93C2EB256FBE}" ShortID="516901484">
+					<ChildrenList>
+						<Event Name="SFX_Footsteps" ID="{A6CD2677-AED0-49FD-B370-8261F74C3881}">
+							<ChildrenList>
+								<Action Name="" ID="{F57670CC-DEA5-4C8C-B35D-B18530838F7A}" ShortID="18309913">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Footsteps" ID="{7D0D36E7-E189-4CDA-99CB-4866801F9B1C}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="SFX_MixSound" ID="{EC56C3D9-C4D5-4CBA-B770-699498CC012D}">
+					<ChildrenList>
+						<Action Name="" ID="{20CA8C96-E157-4F44-9501-6CE46663B3FA}" ShortID="276233722">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player GunShot" ID="{78B8FB48-1FDC-4534-B931-01B7BD487B1C}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A17C06B9-BB99-4A9B-8035-1018142F64D3}" ShortID="603683941">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ZomBear Hurt" ID="{26631452-ACFD-487C-AE6B-C677C2F88229}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SFX_Shoot" ID="{568594D1-1378-4088-83A8-4E341003AC64}">
+					<ChildrenList>
+						<Action Name="" ID="{0DD28730-AE1A-4DF7-90F3-874609167ED2}" ShortID="831875418">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player GunShot" ID="{78B8FB48-1FDC-4534-B931-01B7BD487B1C}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SFX_BG" ID="{0CE4EC33-658F-4472-882E-AC27A82A99B1}">
+					<ChildrenList>
+						<Action Name="" ID="{2E7D6413-F939-4743-81DD-D0239867D46E}" ShortID="879648400">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BGSound" ID="{7890CB8D-74EF-4B76-8D05-A3D340CC51E0}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SFX_StopBG" ID="{F66773D0-3BD1-4B3E-8457-AFC8FF7CF1C6}">
+					<ChildrenList>
+						<Action Name="" ID="{6DFF1CC6-886B-4B7C-9627-D25E40CECA14}" ShortID="142038828">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BGSound" ID="{7890CB8D-74EF-4B76-8D05-A3D340CC51E0}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="VO_OYe" ID="{28DBC09B-E950-463F-B492-64FE4DF1A3DE}">
+					<ChildrenList>
+						<Action Name="" ID="{3FBC795C-822A-42F0-A8BE-AFD67ECC9020}" ShortID="166756093">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Voices" ID="{49ED7FC9-B013-42CB-9BC9-2295943B5D02}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_All_Sound" ID="{F12CB6A3-911E-41B6-8FDA-C87B6B52C2AD}">
+					<ChildrenList>
+						<Action Name="" ID="{60B48582-BF42-40D6-8DA8-6BEC01A65698}" ShortID="683469671">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="MainCharacter" ID="{154192A0-1ACD-4581-A37F-310D22666FDB}" ShortID="2410378">
+					<ChildrenList>
+						<Event Name="Player_HeartBeat" ID="{84A3A0F9-4FEE-4631-AED0-F452C2512EB4}">
+							<ChildrenList>
+								<Action Name="" ID="{F6B624F6-853D-420F-B4F5-5CA3A8183851}" ShortID="868168588">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="HeartBeat" ID="{37FC6696-4A33-40C7-B63E-C0A12E5E303A}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Player_FootSteps" ID="{4D4854DB-8501-460F-9083-57D677AC3159}">
+							<ChildrenList>
+								<Action Name="" ID="{2E2A6507-BB42-406E-9BFD-D667970FE323}" ShortID="376677771">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="FootSteps" ID="{BECCAC2E-0768-48DB-A605-980F27B72694}" WorkUnitID="{002750AE-2E0A-4728-9549-4B6CECFC5CFC}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="SFX_Ambience" ID="{F8D976D0-6B66-46CF-BE5D-2FC19DB2F75A}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

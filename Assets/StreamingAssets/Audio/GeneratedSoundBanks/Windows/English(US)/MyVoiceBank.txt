@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1324836884	VO_OYe			\TPS\VO_OYe	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	781902733	VOMain_001	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\Windows\Voices\English(US)\VOMain_001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\Voices\VOMain_001		688192
+

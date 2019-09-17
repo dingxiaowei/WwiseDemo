@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Study\github\WwiseStudy\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Work\Assets\InnerResources\Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2143169776" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\CharacterBank</ObjectPath>
+			<ShortName>CharacterBank</ShortName>
+			<Path>CharacterBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730208058" Name="Player_FootSteps" ObjectPath="\Events\TPS\MainCharacter\Player_FootSteps"/>
+				<Event Id="3484321931" Name="Player_HeartBeat" ObjectPath="\Events\TPS\MainCharacter\Player_HeartBeat"/>
+				<Event Id="3583497273" Name="SFX_Ambience" ObjectPath="\Events\TPS\SFX_Ambience"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="97860789" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_01.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_01_10C4C929.wem</Path>
+				</File>
+				<File Id="199799754" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_03.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_03_10C4C929.wem</Path>
+				</File>
+				<File Id="200914036" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_05.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_05_10C4C929.wem</Path>
+				</File>
+				<File Id="310513865" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_05.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_05_10C4C929.wem</Path>
+				</File>
+				<File Id="340392970" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_02.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_02_10C4C929.wem</Path>
+				</File>
+				<File Id="363964793" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_03.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_03_10C4C929.wem</Path>
+				</File>
+				<File Id="369149171" Language="SFX">
+					<ShortName>FS_Dirt_01.wav</ShortName>
+					<Path>SFX\FS_Dirt_01_10C4C929.wem</Path>
+				</File>
+				<File Id="427325656" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_03.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_03_10C4C929.wem</Path>
+				</File>
+				<File Id="431239901" Language="SFX">
+					<ShortName>HeartBeat.wav</ShortName>
+					<Path>SFX\HeartBeat_10C4C929.wem</Path>
+				</File>
+				<File Id="446299752" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_02.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_02_10C4C929.wem</Path>
+				</File>
+				<File Id="526419425" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_01.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_01_10C4C929.wem</Path>
+				</File>
+				<File Id="608543073" Language="SFX">
+					<ShortName>FS_Dirt_02.wav</ShortName>
+					<Path>SFX\FS_Dirt_02_10C4C929.wem</Path>
+				</File>
+				<File Id="629875735" Language="SFX">
+					<ShortName>FS_Dirt_04.wav</ShortName>
+					<Path>SFX\FS_Dirt_04_10C4C929.wem</Path>
+				</File>
+				<File Id="693249540" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_04.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_04_10C4C929.wem</Path>
+				</File>
+				<File Id="755082358" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_01.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_01_10C4C929.wem</Path>
+				</File>
+				<File Id="815638093" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_02.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_02_10C4C929.wem</Path>
+				</File>
+				<File Id="962830938" Language="SFX">
+					<ShortName>FS_Dirt_03.wav</ShortName>
+					<Path>SFX\FS_Dirt_03_10C4C929.wem</Path>
+				</File>
+				<File Id="1032498379" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_04.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_04_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e9e90dbae243c4ea115ecf4d53f157, type: 3}
+  m_Name: 87FB6B57-EDB5-4260-9657-5341DCAFB3C3
+  m_EditorClassIdentifier: 
+  objectName: SFX_UI_Button_Down
+  id: 58272245
+  guid: 87FB6B57-EDB5-4260-9657-5341DCAFB3C3

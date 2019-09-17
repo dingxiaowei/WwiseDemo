@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="iOS" BasePlatform="iOS" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Study\github\WwiseStudy\Assets\StreamingAssets\Audio\GeneratedSoundBanks\iOS\Chinese\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Work\Assets\InnerResources\Audio\GeneratedSoundBanks\iOS\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2057761113" Language="Chinese">
+			<ObjectPath>\SoundBanks\Default Work Unit\MyVoiceBank</ObjectPath>
+			<ShortName>MyVoiceBank</ShortName>
+			<Path>Chinese\MyVoiceBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1324836884" Name="VO_OYe" ObjectPath="\Events\TPS\VO_OYe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="156995429" Language="Chinese">
+					<ShortName>VoMain_001.wav</ShortName>
+					<Path>Voices\Chinese\VoMain_001_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

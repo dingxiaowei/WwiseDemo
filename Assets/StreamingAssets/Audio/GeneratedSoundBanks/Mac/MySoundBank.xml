@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Study\github\WwiseStudy\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Work\Assets\InnerResources\Audio\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3104675574" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MySoundBank</ObjectPath>
+			<ShortName>MySoundBank</ShortName>
+			<Path>MySoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4181511840" Name="SFX_BG" ObjectPath="\Events\TPS\SFX_BG"/>
+				<Event Id="125802325" Name="SFX_Button" ObjectPath="\Events\Default Work Unit\SFX_Button"/>
+				<Event Id="3364658470" Name="SFX_Footsteps" ObjectPath="\Events\TPS\Foley\SFX_Footsteps"/>
+				<Event Id="4230043762" Name="SFX_MixSound" ObjectPath="\Events\TPS\SFX_MixSound"/>
+				<Event Id="3036093774" Name="SFX_Shoot" ObjectPath="\Events\TPS\SFX_Shoot"/>
+				<Event Id="4040424632" Name="SFX_StopBG" ObjectPath="\Events\TPS\SFX_StopBG"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="444465678" Language="SFX">
+					<ShortName>Footsteps\FootStepStone1.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone1_10C4C929.wem</Path>
+				</File>
+				<File Id="467311986" Language="SFX">
+					<ShortName>ZomBear Hurt.wav</ShortName>
+					<Path>SFX\ZomBear Hurt_10C4C929.wem</Path>
+				</File>
+				<File Id="507378951" Language="SFX">
+					<ShortName>Player GunShot.wav</ShortName>
+					<Path>SFX\Player GunShot_10C4C929.wem</Path>
+				</File>
+				<File Id="532142354" Language="SFX">
+					<ShortName>Footsteps\FootStepStone2.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone2_10C4C929.wem</Path>
+				</File>
+				<File Id="623625052" Language="SFX">
+					<ShortName>Footsteps\FootStepStone3.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone3_10C4C929.wem</Path>
+				</File>
+				<File Id="647723492" Language="SFX">
+					<ShortName>menuscene.wav</ShortName>
+					<Path>SFX\menuscene_D79FB2B7.wem</Path>
+				</File>
+				<File Id="914652506" Language="SFX">
+					<ShortName>battlescene.wav</ShortName>
+					<Path>SFX\battlescene_D79FB2B7.wem</Path>
+				</File>
+				<File Id="953667626" Language="SFX">
+					<ShortName>button.wav</ShortName>
+					<Path>SFX\button_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f63e4a4a44ab1b479075024e719c359, type: 3}
+  m_Name: 01747AA6-7C82-4A41-8B10-8D5391050D26
+  m_EditorClassIdentifier: 
+  objectName: CharacterBank
+  id: 2143169776
+  guid: 01747AA6-7C82-4A41-8B10-8D5391050D26

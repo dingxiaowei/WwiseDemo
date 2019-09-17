@@ -1,0 +1,106 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "iOS",
+  "BasePlatform": "iOS",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\.cache\\iOS\\",
+   "SoundBanksRoot": "D:\\Study\\github\\WwiseStudy\\Assets\\StreamingAssets\\Audio\\GeneratedSoundBanks\\iOS\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Work\\Assets\\InnerResources\\Audio\\GeneratedSoundBanks\\iOS\\"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3104675574",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MySoundBank",
+    "ShortName": "MySoundBank",
+    "Path": "MySoundBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "4181511840",
+      "Name": "SFX_BG",
+      "ObjectPath": "\\Events\\TPS\\SFX_BG"
+     },
+     {
+      "Id": "125802325",
+      "Name": "SFX_Button",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX_Button"
+     },
+     {
+      "Id": "3364658470",
+      "Name": "SFX_Footsteps",
+      "ObjectPath": "\\Events\\TPS\\Foley\\SFX_Footsteps"
+     },
+     {
+      "Id": "4230043762",
+      "Name": "SFX_MixSound",
+      "ObjectPath": "\\Events\\TPS\\SFX_MixSound"
+     },
+     {
+      "Id": "3036093774",
+      "Name": "SFX_Shoot",
+      "ObjectPath": "\\Events\\TPS\\SFX_Shoot"
+     },
+     {
+      "Id": "4040424632",
+      "Name": "SFX_StopBG",
+      "ObjectPath": "\\Events\\TPS\\SFX_StopBG"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "444465678",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone1.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone1_10C4C929.wem"
+     },
+     {
+      "Id": "467311986",
+      "Language": "SFX",
+      "ShortName": "ZomBear Hurt.wav",
+      "Path": "SFX\\ZomBear Hurt_10C4C929.wem"
+     },
+     {
+      "Id": "507378951",
+      "Language": "SFX",
+      "ShortName": "Player GunShot.wav",
+      "Path": "SFX\\Player GunShot_10C4C929.wem"
+     },
+     {
+      "Id": "532142354",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone2.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone2_10C4C929.wem"
+     },
+     {
+      "Id": "623625052",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone3.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone3_10C4C929.wem"
+     },
+     {
+      "Id": "647723492",
+      "Language": "SFX",
+      "ShortName": "menuscene.wav",
+      "Path": "SFX\\menuscene_D79FB2B7.wem"
+     },
+     {
+      "Id": "914652506",
+      "Language": "SFX",
+      "ShortName": "battlescene.wav",
+      "Path": "SFX\\battlescene_D79FB2B7.wem"
+     },
+     {
+      "Id": "953667626",
+      "Language": "SFX",
+      "ShortName": "button.wav",
+      "Path": "SFX\\button_10C4C929.wem"
+     }
+    ]
+   }
+  ]
+ }
+}

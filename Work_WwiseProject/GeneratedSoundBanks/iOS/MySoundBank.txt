@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	125802325	SFX_Button			\Default Work Unit\SFX_Button	
+	3036093774	SFX_Shoot			\TPS\SFX_Shoot	
+	3364658470	SFX_Footsteps			\TPS\Foley\SFX_Footsteps	
+	4040424632	SFX_StopBG			\TPS\SFX_StopBG	
+	4181511840	SFX_BG			\TPS\SFX_BG	
+	4230043762	SFX_MixSound			\TPS\SFX_MixSound	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	444465678	FootStepStone1	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\Footsteps\FootStepStone1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\Footsteps\FootStepStone1		54924
+	467311986	ZomBear Hurt	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\ZomBear Hurt_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\ZomBear Hurt		68340
+	507378951	Player GunShot	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\Player GunShot_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\Player GunShot		248712
+	532142354	FootStepStone2	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\Footsteps\FootStepStone2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\Footsteps\FootStepStone2		47826
+	623625052	FootStepStone3	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\Footsteps\FootStepStone3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\Footsteps\FootStepStone3		38572
+	647723492	menuscene	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\menuscene_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\BGSound\menuscene		5654080
+	914652506	battlescene	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\battlescene_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\TPS\BGSound\battlescene		6423616
+	953667626	BtnSound2	D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\iOS\SFX\button_10C4C929.wem		\Actor-Mixer Hierarchy\UI\UI\ButtonSound\BtnSound2		41536
+

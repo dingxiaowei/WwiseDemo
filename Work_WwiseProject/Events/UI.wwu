@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0D1F0110-5598-4071-8BB4-DC345E6AF28E}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="UI" ID="{0D1F0110-5598-4071-8BB4-DC345E6AF28E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Generic" ID="{E52E215D-C58E-4703-A569-894629619731}" ShortID="714334276">
+					<ChildrenList>
+						<Event Name="SFX_UI_Button_Down" ID="{87FB6B57-EDB5-4260-9657-5341DCAFB3C3}">
+							<ChildrenList>
+								<Action Name="" ID="{800465BE-39C4-4E29-9F33-57B5870DF9FC}" ShortID="526043095">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ButtonSound" ID="{9F83842C-228E-48A2-9A2F-4A77DA694F94}" WorkUnitID="{7BFDDE0E-1B51-4B50-9F96-205647D2BBA4}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

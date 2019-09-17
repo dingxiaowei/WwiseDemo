@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2538918815	PlayerShoot			\Default Work Unit\PlayerShoot	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	551870752	Player GunShot	C:\Users\dingxw\Desktop\EmptyAudioProject\EmptyAudioProject_WwiseProject\.cache\Windows\SFX\Player GunShot_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player GunShot		248712
+

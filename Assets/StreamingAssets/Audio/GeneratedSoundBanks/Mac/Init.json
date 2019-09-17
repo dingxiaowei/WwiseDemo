@@ -1,0 +1,24 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Study\\github\\WwiseStudy\\Assets\\StreamingAssets\\Audio\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Work\\Assets\\InnerResources\\Audio\\GeneratedSoundBanks\\Mac\\"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

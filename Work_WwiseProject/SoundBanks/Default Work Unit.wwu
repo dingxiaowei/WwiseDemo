@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6F0459F7-F1C4-4E49-893D-A7227D11FE9A}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{6F0459F7-F1C4-4E49-893D-A7227D11FE9A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MyVoiceBank" ID="{89050B2A-CE46-4804-B553-F5DAC66ABB25}">
+					<ObjectInclusionList>
+						<ObjectRef Name="VO_OYe" ID="{28DBC09B-E950-463F-B492-64FE4DF1A3DE}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="MySoundBank" ID="{E9A6F592-29D5-4DA9-AC1F-7D1A310BE5FF}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SFX_Shoot" ID="{568594D1-1378-4088-83A8-4E341003AC64}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_BG" ID="{0CE4EC33-658F-4472-882E-AC27A82A99B1}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_Button" ID="{4BE3785C-6F1C-4898-9673-7EE4641DD63F}" WorkUnitID="{92B8D6C9-2CF9-4DB6-98F0-56F29A6AE4CA}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_Footsteps" ID="{A6CD2677-AED0-49FD-B370-8261F74C3881}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_StopBG" ID="{F66773D0-3BD1-4B3E-8457-AFC8FF7CF1C6}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_MixSound" ID="{EC56C3D9-C4D5-4CBA-B770-699498CC012D}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="CharacterBank" ID="{01747AA6-7C82-4A41-8B10-8D5391050D26}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_FootSteps" ID="{4D4854DB-8501-460F-9083-57D677AC3159}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Player_HeartBeat" ID="{84A3A0F9-4FEE-4631-AED0-F452C2512EB4}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="SFX_Ambience" ID="{F8D976D0-6B66-46CF-BE5D-2FC19DB2F75A}" WorkUnitID="{6BADCDBF-B3A4-45DA-8E2D-3F46A986828C}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

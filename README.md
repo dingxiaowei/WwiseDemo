@@ -1,2 +1,4 @@
-# WwiseDemo
-Wwise入门
+# WwiseStudy
+
+![](1.png)
+

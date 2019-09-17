@@ -1,0 +1,294 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "134",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Study\\github\\WwiseStudy\\Work_WwiseProject\\.cache\\Android\\",
+   "SoundBanksRoot": "D:\\Study\\github\\WwiseStudy\\Assets\\StreamingAssets\\Audio\\GeneratedSoundBanks\\Android\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Work\\Assets\\InnerResources\\Audio\\GeneratedSoundBanks\\Android\\"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "2057761113",
+    "Language": "English(US)",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MyVoiceBank",
+    "ShortName": "MyVoiceBank",
+    "Path": "English(US)\\MyVoiceBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1324836884",
+      "Name": "VO_OYe",
+      "ObjectPath": "\\Events\\TPS\\VO_OYe"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "781902733",
+      "Language": "English(US)",
+      "ShortName": "VOMain_001.wav",
+      "Path": "Voices\\English(US)\\VOMain_001_10C4C929.wem"
+     }
+    ]
+   },
+   {
+    "Id": "2057761113",
+    "Language": "Chinese",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MyVoiceBank",
+    "ShortName": "MyVoiceBank",
+    "Path": "Chinese\\MyVoiceBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1324836884",
+      "Name": "VO_OYe",
+      "ObjectPath": "\\Events\\TPS\\VO_OYe"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "156995429",
+      "Language": "Chinese",
+      "ShortName": "VoMain_001.wav",
+      "Path": "Voices\\Chinese\\VoMain_001_10C4C929.wem"
+     }
+    ]
+   },
+   {
+    "Id": "2143169776",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\CharacterBank",
+    "ShortName": "CharacterBank",
+    "Path": "CharacterBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1730208058",
+      "Name": "Player_FootSteps",
+      "ObjectPath": "\\Events\\TPS\\MainCharacter\\Player_FootSteps"
+     },
+     {
+      "Id": "3484321931",
+      "Name": "Player_HeartBeat",
+      "ObjectPath": "\\Events\\TPS\\MainCharacter\\Player_HeartBeat"
+     },
+     {
+      "Id": "3583497273",
+      "Name": "SFX_Ambience",
+      "ObjectPath": "\\Events\\TPS\\SFX_Ambience"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "97860789",
+      "Language": "SFX",
+      "ShortName": "AK_FS_Run_Gravel_01.wav",
+      "Path": "SFX\\AK_FS_Run_Gravel_01_10C4C929.wem"
+     },
+     {
+      "Id": "199799754",
+      "Language": "SFX",
+      "ShortName": "AK_FS_Run_Gravel_03.wav",
+      "Path": "SFX\\AK_FS_Run_Gravel_03_10C4C929.wem"
+     },
+     {
+      "Id": "200914036",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardmetal_05.wav",
+      "Path": "SFX\\Footstep_Walking_Hardmetal_05_10C4C929.wem"
+     },
+     {
+      "Id": "310513865",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardwood_05.wav",
+      "Path": "SFX\\Footstep_Walking_Hardwood_05_10C4C929.wem"
+     },
+     {
+      "Id": "340392970",
+      "Language": "SFX",
+      "ShortName": "AK_FS_Run_Gravel_02.wav",
+      "Path": "SFX\\AK_FS_Run_Gravel_02_10C4C929.wem"
+     },
+     {
+      "Id": "363964793",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardmetal_03.wav",
+      "Path": "SFX\\Footstep_Walking_Hardmetal_03_10C4C929.wem"
+     },
+     {
+      "Id": "369149171",
+      "Language": "SFX",
+      "ShortName": "FS_Dirt_01.wav",
+      "Path": "SFX\\FS_Dirt_01_10C4C929.wem"
+     },
+     {
+      "Id": "427325656",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardwood_03.wav",
+      "Path": "SFX\\Footstep_Walking_Hardwood_03_10C4C929.wem"
+     },
+     {
+      "Id": "431239901",
+      "Language": "SFX",
+      "ShortName": "HeartBeat.wav",
+      "Path": "SFX\\HeartBeat_10C4C929.wem"
+     },
+     {
+      "Id": "446299752",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardmetal_02.wav",
+      "Path": "SFX\\Footstep_Walking_Hardmetal_02_10C4C929.wem"
+     },
+     {
+      "Id": "526419425",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardmetal_01.wav",
+      "Path": "SFX\\Footstep_Walking_Hardmetal_01_10C4C929.wem"
+     },
+     {
+      "Id": "608543073",
+      "Language": "SFX",
+      "ShortName": "FS_Dirt_02.wav",
+      "Path": "SFX\\FS_Dirt_02_10C4C929.wem"
+     },
+     {
+      "Id": "629875735",
+      "Language": "SFX",
+      "ShortName": "FS_Dirt_04.wav",
+      "Path": "SFX\\FS_Dirt_04_10C4C929.wem"
+     },
+     {
+      "Id": "693249540",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardwood_04.wav",
+      "Path": "SFX\\Footstep_Walking_Hardwood_04_10C4C929.wem"
+     },
+     {
+      "Id": "755082358",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardwood_01.wav",
+      "Path": "SFX\\Footstep_Walking_Hardwood_01_10C4C929.wem"
+     },
+     {
+      "Id": "815638093",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardwood_02.wav",
+      "Path": "SFX\\Footstep_Walking_Hardwood_02_10C4C929.wem"
+     },
+     {
+      "Id": "962830938",
+      "Language": "SFX",
+      "ShortName": "FS_Dirt_03.wav",
+      "Path": "SFX\\FS_Dirt_03_10C4C929.wem"
+     },
+     {
+      "Id": "1032498379",
+      "Language": "SFX",
+      "ShortName": "Footstep_Walking_Hardmetal_04.wav",
+      "Path": "SFX\\Footstep_Walking_Hardmetal_04_10C4C929.wem"
+     }
+    ]
+   },
+   {
+    "Id": "3104675574",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MySoundBank",
+    "ShortName": "MySoundBank",
+    "Path": "MySoundBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "4181511840",
+      "Name": "SFX_BG",
+      "ObjectPath": "\\Events\\TPS\\SFX_BG"
+     },
+     {
+      "Id": "125802325",
+      "Name": "SFX_Button",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX_Button"
+     },
+     {
+      "Id": "3364658470",
+      "Name": "SFX_Footsteps",
+      "ObjectPath": "\\Events\\TPS\\Foley\\SFX_Footsteps"
+     },
+     {
+      "Id": "4230043762",
+      "Name": "SFX_MixSound",
+      "ObjectPath": "\\Events\\TPS\\SFX_MixSound"
+     },
+     {
+      "Id": "3036093774",
+      "Name": "SFX_Shoot",
+      "ObjectPath": "\\Events\\TPS\\SFX_Shoot"
+     },
+     {
+      "Id": "4040424632",
+      "Name": "SFX_StopBG",
+      "ObjectPath": "\\Events\\TPS\\SFX_StopBG"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "444465678",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone1.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone1_10C4C929.wem"
+     },
+     {
+      "Id": "467311986",
+      "Language": "SFX",
+      "ShortName": "ZomBear Hurt.wav",
+      "Path": "SFX\\ZomBear Hurt_10C4C929.wem"
+     },
+     {
+      "Id": "507378951",
+      "Language": "SFX",
+      "ShortName": "Player GunShot.wav",
+      "Path": "SFX\\Player GunShot_10C4C929.wem"
+     },
+     {
+      "Id": "532142354",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone2.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone2_10C4C929.wem"
+     },
+     {
+      "Id": "623625052",
+      "Language": "SFX",
+      "ShortName": "Footsteps\\FootStepStone3.wav",
+      "Path": "SFX\\Footsteps\\FootStepStone3_10C4C929.wem"
+     },
+     {
+      "Id": "647723492",
+      "Language": "SFX",
+      "ShortName": "menuscene.wav",
+      "Path": "SFX\\menuscene_D79FB2B7.wem"
+     },
+     {
+      "Id": "914652506",
+      "Language": "SFX",
+      "ShortName": "battlescene.wav",
+      "Path": "SFX\\battlescene_D79FB2B7.wem"
+     },
+     {
+      "Id": "953667626",
+      "Language": "SFX",
+      "ShortName": "button.wav",
+      "Path": "SFX\\button_10C4C929.wem"
+     }
+    ]
+   }
+  ]
+ }
+}

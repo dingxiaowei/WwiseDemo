@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Study\github\WwiseStudy\Work_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Study\github\WwiseStudy\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Work\Assets\InnerResources\Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2057761113" Language="English(US)">
+			<ObjectPath>\SoundBanks\Default Work Unit\MyVoiceBank</ObjectPath>
+			<ShortName>MyVoiceBank</ShortName>
+			<Path>English(US)\MyVoiceBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1324836884" Name="VO_OYe" ObjectPath="\Events\TPS\VO_OYe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="781902733" Language="English(US)">
+					<ShortName>VOMain_001.wav</ShortName>
+					<Path>Voices\English(US)\VOMain_001_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2057761113" Language="Chinese">
+			<ObjectPath>\SoundBanks\Default Work Unit\MyVoiceBank</ObjectPath>
+			<ShortName>MyVoiceBank</ShortName>
+			<Path>Chinese\MyVoiceBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1324836884" Name="VO_OYe" ObjectPath="\Events\TPS\VO_OYe"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="156995429" Language="Chinese">
+					<ShortName>VoMain_001.wav</ShortName>
+					<Path>Voices\Chinese\VoMain_001_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2143169776" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\CharacterBank</ObjectPath>
+			<ShortName>CharacterBank</ShortName>
+			<Path>CharacterBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730208058" Name="Player_FootSteps" ObjectPath="\Events\TPS\MainCharacter\Player_FootSteps"/>
+				<Event Id="3484321931" Name="Player_HeartBeat" ObjectPath="\Events\TPS\MainCharacter\Player_HeartBeat"/>
+				<Event Id="3583497273" Name="SFX_Ambience" ObjectPath="\Events\TPS\SFX_Ambience"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="97860789" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_01.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_01_10C4C929.wem</Path>
+				</File>
+				<File Id="199799754" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_03.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_03_10C4C929.wem</Path>
+				</File>
+				<File Id="200914036" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_05.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_05_10C4C929.wem</Path>
+				</File>
+				<File Id="310513865" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_05.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_05_10C4C929.wem</Path>
+				</File>
+				<File Id="340392970" Language="SFX">
+					<ShortName>AK_FS_Run_Gravel_02.wav</ShortName>
+					<Path>SFX\AK_FS_Run_Gravel_02_10C4C929.wem</Path>
+				</File>
+				<File Id="363964793" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_03.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_03_10C4C929.wem</Path>
+				</File>
+				<File Id="369149171" Language="SFX">
+					<ShortName>FS_Dirt_01.wav</ShortName>
+					<Path>SFX\FS_Dirt_01_10C4C929.wem</Path>
+				</File>
+				<File Id="427325656" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_03.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_03_10C4C929.wem</Path>
+				</File>
+				<File Id="431239901" Language="SFX">
+					<ShortName>HeartBeat.wav</ShortName>
+					<Path>SFX\HeartBeat_10C4C929.wem</Path>
+				</File>
+				<File Id="446299752" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_02.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_02_10C4C929.wem</Path>
+				</File>
+				<File Id="526419425" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_01.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_01_10C4C929.wem</Path>
+				</File>
+				<File Id="608543073" Language="SFX">
+					<ShortName>FS_Dirt_02.wav</ShortName>
+					<Path>SFX\FS_Dirt_02_10C4C929.wem</Path>
+				</File>
+				<File Id="629875735" Language="SFX">
+					<ShortName>FS_Dirt_04.wav</ShortName>
+					<Path>SFX\FS_Dirt_04_10C4C929.wem</Path>
+				</File>
+				<File Id="693249540" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_04.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_04_10C4C929.wem</Path>
+				</File>
+				<File Id="755082358" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_01.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_01_10C4C929.wem</Path>
+				</File>
+				<File Id="815638093" Language="SFX">
+					<ShortName>Footstep_Walking_Hardwood_02.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardwood_02_10C4C929.wem</Path>
+				</File>
+				<File Id="962830938" Language="SFX">
+					<ShortName>FS_Dirt_03.wav</ShortName>
+					<Path>SFX\FS_Dirt_03_10C4C929.wem</Path>
+				</File>
+				<File Id="1032498379" Language="SFX">
+					<ShortName>Footstep_Walking_Hardmetal_04.wav</ShortName>
+					<Path>SFX\Footstep_Walking_Hardmetal_04_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3104675574" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MySoundBank</ObjectPath>
+			<ShortName>MySoundBank</ShortName>
+			<Path>MySoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4181511840" Name="SFX_BG" ObjectPath="\Events\TPS\SFX_BG"/>
+				<Event Id="125802325" Name="SFX_Button" ObjectPath="\Events\Default Work Unit\SFX_Button"/>
+				<Event Id="3364658470" Name="SFX_Footsteps" ObjectPath="\Events\TPS\Foley\SFX_Footsteps"/>
+				<Event Id="4230043762" Name="SFX_MixSound" ObjectPath="\Events\TPS\SFX_MixSound"/>
+				<Event Id="3036093774" Name="SFX_Shoot" ObjectPath="\Events\TPS\SFX_Shoot"/>
+				<Event Id="4040424632" Name="SFX_StopBG" ObjectPath="\Events\TPS\SFX_StopBG"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="444465678" Language="SFX">
+					<ShortName>Footsteps\FootStepStone1.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone1_10C4C929.wem</Path>
+				</File>
+				<File Id="467311986" Language="SFX">
+					<ShortName>ZomBear Hurt.wav</ShortName>
+					<Path>SFX\ZomBear Hurt_10C4C929.wem</Path>
+				</File>
+				<File Id="507378951" Language="SFX">
+					<ShortName>Player GunShot.wav</ShortName>
+					<Path>SFX\Player GunShot_10C4C929.wem</Path>
+				</File>
+				<File Id="532142354" Language="SFX">
+					<ShortName>Footsteps\FootStepStone2.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone2_10C4C929.wem</Path>
+				</File>
+				<File Id="623625052" Language="SFX">
+					<ShortName>Footsteps\FootStepStone3.wav</ShortName>
+					<Path>SFX\Footsteps\FootStepStone3_10C4C929.wem</Path>
+				</File>
+				<File Id="647723492" Language="SFX">
+					<ShortName>menuscene.wav</ShortName>
+					<Path>SFX\menuscene_D79FB2B7.wem</Path>
+				</File>
+				<File Id="914652506" Language="SFX">
+					<ShortName>battlescene.wav</ShortName>
+					<Path>SFX\battlescene_D79FB2B7.wem</Path>
+				</File>
+				<File Id="953667626" Language="SFX">
+					<ShortName>button.wav</ShortName>
+					<Path>SFX\button_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

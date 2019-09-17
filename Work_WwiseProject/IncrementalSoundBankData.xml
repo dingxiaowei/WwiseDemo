@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="861300542">
+	<Platform GUID="{2115A7F4-B0B9-44BC-96DA-41489B6F44BA}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3495406132" Timestamp="1568638686"/>
+				<File Name="Init" Hash="4001860839" Timestamp="1568638686"/>
+				<File Name="MySoundBank" Hash="4025405219" Timestamp="1568638686"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="4109705592" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="1254246859" Timestamp="1568638686"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="983902332" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2925099037" Timestamp="1568638686"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3544495584" Timestamp="1568638676"/>
+				<File Name="Init" Hash="2662055352" Timestamp="1568638676"/>
+				<File Name="MySoundBank" Hash="1814207933" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="2185258612" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="243991541" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="2912610572" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="1576249953" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3882143649" Timestamp="1568638686"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="2335552083" Timestamp="1568638676"/>
+				<File Name="Init" Hash="1224787408" Timestamp="1568638676"/>
+				<File Name="MySoundBank" Hash="1207917108" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="1891363375" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2895565055" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="1345361659" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2440596215" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2696519429" Timestamp="1568638676"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{B5054D20-3A7E-45C8-9A59-15C3DE5DA14E}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3495406132" Timestamp="1568638687"/>
+				<File Name="Init" Hash="743582445" Timestamp="1568638687"/>
+				<File Name="MySoundBank" Hash="4025405219" Timestamp="1568638687"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="4109705592" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="1254246859" Timestamp="1568638687"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="983902332" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="2925099037" Timestamp="1568638687"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3320401316" Timestamp="1568638677"/>
+				<File Name="Init" Hash="596300604" Timestamp="1568638677"/>
+				<File Name="MySoundBank" Hash="1943702449" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="230999404" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="2204363433" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="2340628580" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="1665140965" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1729472805" Timestamp="1568638687"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="2178427591" Timestamp="1568638677"/>
+				<File Name="Init" Hash="57575052" Timestamp="1568638677"/>
+				<File Name="MySoundBank" Hash="1318059448" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="3710505003" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="953453491" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="3045975303" Timestamp="1565173702"/>
+				<File Name="MyVoiceBank" Hash="1600623547" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3351676241" Timestamp="1568638677"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{D8812192-1425-47E8-B41B-BC21C7027C01}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3495406132" Timestamp="1568638686"/>
+				<File Name="Init" Hash="3567518005" Timestamp="1568638686"/>
+				<File Name="MySoundBank" Hash="4025405219" Timestamp="1568638686"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="4109705592" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="1254246859" Timestamp="1568638686"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="983902332" Timestamp="1565173700"/>
+				<File Name="MyVoiceBank" Hash="2925099037" Timestamp="1568638686"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3657717374" Timestamp="1568638676"/>
+				<File Name="Init" Hash="4056664802" Timestamp="1568638676"/>
+				<File Name="MySoundBank" Hash="2839080515" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="3215865118" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2702881947" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="2081479066" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2746047395" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1314321647" Timestamp="1568638686"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="256883557" Timestamp="1568638676"/>
+				<File Name="Init" Hash="3698738162" Timestamp="1568638676"/>
+				<File Name="MySoundBank" Hash="2344233658" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="2082355209" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2594478941" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="2111305601" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2396939113" Timestamp="1568638676"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3529459543" Timestamp="1568638676"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{26492EF6-FF27-48F0-9C45-C6351AF9A5AF}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="3495406132" Timestamp="1568638687"/>
+				<File Name="Init" Hash="2083789435" Timestamp="1568638687"/>
+				<File Name="MySoundBank" Hash="4025405219" Timestamp="1568638687"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="4109705592" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="1254246859" Timestamp="1568638687"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="983902332" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2925099037" Timestamp="1568638687"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="1212784786" Timestamp="1568638677"/>
+				<File Name="Init" Hash="668925510" Timestamp="1568638677"/>
+				<File Name="MySoundBank" Hash="275094439" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="2190225666" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="4183783935" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="3994552686" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="62462159" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2977880915" Timestamp="1568638687"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="CharacterBank" Hash="2526897241" Timestamp="1568638677"/>
+				<File Name="Init" Hash="1870079710" Timestamp="1568638677"/>
+				<File Name="MySoundBank" Hash="2809218270" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="MySoundBank" Hash="2689159813" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="2534214681" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="1016554174">
+				<File Name="MySoundBank" Hash="2387466405" Timestamp="1565173701"/>
+				<File Name="MyVoiceBank" Hash="1257262389" Timestamp="1568638677"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="3328366243" Timestamp="1568638677"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+</IncrementalBankBuild>

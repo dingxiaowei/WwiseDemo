@@ -1,0 +1,19 @@
+{
+ "PluginInfo": {
+  "Project": "Work_WwiseProject",
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "Plugins": {
+   "Plugin": {
+    "Name": "System",
+    "ID": "11403271",
+    "DLL": "DefaultSink"
+   },
+   "Plugin": {
+    "Name": "No Output",
+    "ID": "11862023",
+    "DLL": "DefaultSink"
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{92B8D6C9-2CF9-4DB6-98F0-56F29A6AE4CA}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{92B8D6C9-2CF9-4DB6-98F0-56F29A6AE4CA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="SFX_Button" ID="{4BE3785C-6F1C-4898-9673-7EE4641DD63F}">
+					<ChildrenList>
+						<Action Name="" ID="{988EF7F0-964E-4B84-AE47-7315759E5052}" ShortID="385398245">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BtnSound2" ID="{1D3F7720-F0BB-4A54-B2D2-01C98E8A1FB5}" WorkUnitID="{7BFDDE0E-1B51-4B50-9F96-205647D2BBA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

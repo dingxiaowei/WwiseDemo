@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\dingxw\Desktop\EmptyAudioProject\EmptyAudioProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\dingxw\Desktop\EmptyAudioProject\EmptyAudioProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\dingxw\Desktop\EmptyAudioProject\Assets\Wwise\Resources\Soundbank\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\dingxw\Desktop\EmptyAudioProject\EmptyAudioProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="534561221" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainSoundBank</ObjectPath>
+			<ShortName>MainSoundBank</ShortName>
+			<Path>MainSoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2538918815" Name="PlayerShoot" ObjectPath="\Events\Default Work Unit\PlayerShoot" DurationType="OneShot" DurationMin="1.409569" DurationMax="1.409569"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="551870752" Language="SFX">
+					<ShortName>Player GunShot.wav</ShortName>
+					<Path>SFX\Player GunShot_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
